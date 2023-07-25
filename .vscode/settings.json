@@ -35,8 +35,5 @@
   ],
   "C_Cpp_Runner.useAddressSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.autopep8"
-  },
-  "python.formatting.provider": "none"
+
 }
