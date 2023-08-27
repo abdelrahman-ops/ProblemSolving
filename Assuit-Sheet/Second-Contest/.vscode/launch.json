@@ -2,26 +2,14 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "C++ Debug",
-      "type": "cppdbg",
-      "request": "launch",
-      "program": "${workspaceFolder}/main",
-      "args": [],
-      "stopAtEntry": false,
-      "cwd": "${workspaceFolder}",
-      "environment": [],
-      "externalConsole": true,
-      "MIMode": "gdb"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Documents/programming/GitHub/ProblemSolving/Assuit-Sheet",
-      "program": "d:/Documents/programming/GitHub/ProblemSolving/Assuit-Sheet/build/Debug/outDebug",
+      "cwd": "d:/Documents/programming/GitHub/ProblemSolving/Assuit-Sheet/Second-Contest",
+      "program": "d:/Documents/programming/GitHub/ProblemSolving/Assuit-Sheet/Second-Contest/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
