@@ -61,6 +61,7 @@
   ],
   "files.associations": {
     "*.html": "html",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iostream": "cpp"
   }
 }
