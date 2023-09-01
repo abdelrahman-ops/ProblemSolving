@@ -20,8 +20,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Documents/programming/GitHub/ProblemSolving/Assuit-Sheet",
-      "program": "d:/Documents/programming/GitHub/ProblemSolving/Assuit-Sheet/build/Debug/outDebug",
+      "cwd": "d:/Documents/programming/GitHub/ProblemSolving/Assuit-Sheet/Third-Contest",
+      "program": "d:/Documents/programming/GitHub/ProblemSolving/Assuit-Sheet/Third-Contest/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
